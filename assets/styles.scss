@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Knewave&display=swap");
+
+.logo {
+  font-family: "Knewave", cursive;
+  letter-spacing: 3px;
+  color: #fce4ec;
+}
+
+.fancy-title {
+  font-family: "Knewave", cursive;
+  font-size: 48px;
+}
+
+.my-trello-topbar {
+  background-color: #d3a1eb;
+}
+
+.my-trello-user {
+  font-size: 8px;
+  margin-bottom: 0px !important;
+  text-align: right;
+}
+
+.my-trello-board-tile {
+  margin: 20px 20px 0px 0px;
+  .v-card__subtitle {
+    font-size: 8px;
+  }
+}

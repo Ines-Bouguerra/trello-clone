@@ -55,7 +55,7 @@ $ cd trello-clone
 ## Contributing
 We :heart: contributions from everyone and contributions to this project are encouraged, and compensated. We welcome [bug reports](https://github.com/Ines-Bouguerra/trello-clone/issues/), [bug fixes](https://github.com/Ines-Bouguerra/trello-clone/pulls) and feedback is always appreciated. For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Ines-Bouguerra/trello-clone/issues)[![GitHub contributors](https://img.shields.io/github/contributors/lbryio/lbry-desktop.svg)](https://github.com/Ines-Bouguerra/trello-clone/graphs/contributors/)
+## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Ines-Bouguerra/trello-clone/issues)[![GitHub contributors](https://img.shields.io/github/contributors/lbryio/lbry-desktop.svg)](https://img.shields.io/github/contributors/Ines-Bouguerra/trello-clone?color=green)
 ## Contact
 
 The primary contact for this project is [@ines](https://github.com/Ines-Bouguerra).

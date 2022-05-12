@@ -1,6 +1,6 @@
 # trello-clone
 
-A trello clone using Nuxt.js and Vuetify
+A trello clone [My Trello Clone](https://my-trello-clone-dev.netlify.app/auth/signin) using Nuxt.js and Vuetify
 
 ## Build Setup
 

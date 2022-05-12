@@ -2,6 +2,9 @@
 
 A trello clone [My Trello Clone](https://my-trello-clone-dev.netlify.app/auth/signin) using Nuxt.js and Vuetify
 
+    - Email : my-trello-clone-test@gmail.com
+    - Password : password
+
 ## Build Setup
 
 <img width="100%" src="assets/trello-clone-signin.png" />

@@ -51,7 +51,10 @@ $ cd trello-clone
                 # generate static project
                 $ yarn generate
 ```
-
+### Docker
+```bash	
+docker compose up -d
+``` 
 ## Contributing
 We :heart: contributions from everyone and contributions to this project are encouraged, and compensated. We welcome [bug reports](https://github.com/Ines-Bouguerra/trello-clone/issues/), [bug fixes](https://github.com/Ines-Bouguerra/trello-clone/pulls) and feedback is always appreciated. For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 

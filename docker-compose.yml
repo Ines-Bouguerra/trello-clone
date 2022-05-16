@@ -1,20 +1,5 @@
 version: "3.8"
 services:
-  traefik:
-    image: traefik:latest
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-    restart: always
-    networks:
-      - traefik
-    labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.whoami.rule=Host(`localhost`)"
-      - "traefik.http.routers.whoami.entrypoints=http"
-
   app:
     build:
       context: .
@@ -25,15 +10,3 @@ services:
       - "30000:3000"
     volumes:
       - ./:/usr/src/nuxt-app
-    depends_on:
-      - db
-  db:
-    image: "mysql:5.6"
-    container_name: trello_database
-    environment:
-      MYSQL_DATABASE: "trello_clone"
-      MYSQL_USER: "trello"
-      MYSQL_PASSWORD: "qsdlmkfjqs"
-      MYSQL_ROOT_PASSWORD: "qmslkdfjqm"
-    ports:
-      - "33060:3306"
